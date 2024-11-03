@@ -1,5 +1,5 @@
 Goals:
-To add automatically 2 rows with the same string value, for this case to generate (show interface &lt;interface> | in CRC) on a Cisco router.
+To add automatically 2 rows with the same string value, for this case to generate (show interface &lt;interface ID> | in CRC) on a Cisco router.
 
 How to run the script:
 1. Put the data_intf.txt in the same directory with triplicate_2.py
